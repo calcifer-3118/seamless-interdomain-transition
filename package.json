@@ -20,6 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/calcifer-3118/seamless-interdomain-transition"
+    "url": "https://github.com/calcifer-3118/seamless-interdomain-transition.git"
+  },
+  "homepage": "https://github.com/calcifer-3118/seamless-interdomain-transition#readme",
+  "bugs": {
+    "url": "https://github.com/calcifer-3118/seamless-interdomain-transition/issues"
   }
 }
