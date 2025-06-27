@@ -1,0 +1,25 @@
+{
+  "name": "seamless-interdomain-transition",
+  "version": "0.1.0",
+  "description": "Seamless inter-domain page transitions with animated overlays.",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "main": "index.js",
+  "type": "module",
+  "author": "Dheer Jain",
+  "license": "MIT",
+  "keywords": [
+    "transition",
+    "portal",
+    "smooth-navigation",
+    "interdomain",
+    "fade"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calcifer-3118/seamless-interdomain-transition"
+  }
+}
